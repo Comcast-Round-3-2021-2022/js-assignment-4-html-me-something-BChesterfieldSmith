@@ -1,1 +1,27 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 200px;
+    display: block;
+    background-color: lightsteelblue;
+    font-weight: bold; 
+}
+
+#mainHeading {
+    color: #ff0000;
+}
+
+.funParagraph {
+    color:green;
+}
+
+#testP {
+    color:chocolate;
+}
+
+p {
+    color: darkcyan; 
+}
